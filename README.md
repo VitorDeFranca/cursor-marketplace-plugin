@@ -14,7 +14,7 @@ You need an Asana account and a registered Asana OAuth app.
 
 1. Go to https://app.asana.com/0/my-apps
 2. Create a new app
-3. Add `cursor://anysphere.cursor-mcp/oauth/callback` as a redirect URI
+3. Add `http://localhost:8787/callback` as a redirect URI
 4. Copy your **Client ID** and **Client Secret**
 
 ## Setup
